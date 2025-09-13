@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Examino.iml" filepath="$PROJECT_DIR$/.idea/Examino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examino-backend/examino/examino.iml" filepath="$PROJECT_DIR$/examino-backend/examino/examino.iml" />
+    </modules>
+  </component>
+</project>
